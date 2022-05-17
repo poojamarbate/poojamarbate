@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @poojamarbate
-- 👀 I’m interested in Dotnet
+- 👀 I’m interested in .Net Full Stack Developement
 - 🌱 I’m currently working on SQL, C# & .Net
-- 💞 I’m looking to collaborate on DotNet Projects.
+- 💞 I’m looking to collaborate on DotNet Projects
 - 📫 Reach me at poojamarbate@outlook.com
